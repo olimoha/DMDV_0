@@ -6,7 +6,8 @@ I am looking forward to learn more.
 - 👀 I’m interested in DMDV
 - And now I edited the readme
 
-- How are youuuuuu?
+- How are you?
+
 
 <!---
 olimoha/olimoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
