@@ -1,8 +1,10 @@
 # Hello-world
-This is my first repository
-I am looking forward to learn more
+This is my first repository. 
+
+I am looking forward to learn more.
 - 👋 Hi, I’m @olimoha
 - 👀 I’m interested in DMDV
+- And now I edited the readme 
 
 <!---
 olimoha/olimoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
